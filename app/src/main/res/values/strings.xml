@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Views</string>
+    <string name="button">Button</string>
+    <string name="switch1">Enable</string>
+    <string name="plus_button_description">add button</string>
+
+    <string name="night_mode">Night Mode</string>
+    <string name="day_mode">Day Mode</string>
+</resources>
